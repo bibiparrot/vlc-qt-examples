@@ -29,6 +29,10 @@ If you want to use qmake, you can delete
 
 ### Windows
 
+You can open src/src.pro with QT Creator and build.
+
+![](simple-player.exe.png)
+
 You can install all required libraries with (CMake only)
 ```
 make install
